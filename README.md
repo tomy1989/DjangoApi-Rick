@@ -10,7 +10,7 @@
 
 ![](https://www.pngall.com/wp-content/uploads/4/Rick-And-Morty-PNG-Clipart-180x180.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg)  ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
+![](https://img.shields.io/badge/-tomy%20poliakov-orange) ![](https://img.shields.io/github/stars/banges?style=social)  ![](https://img.shields.io/npm/v/npm) ![](https://img.shields.io/pypi/pyversions/django)
 
 
 **Table of Contents**
