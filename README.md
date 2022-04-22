@@ -15,19 +15,11 @@
 
 **Table of Contents**
 
-
-[TOCM]
-
-
-[TOC]
-
-__TOC__
-
 + [Features](#features)
 - [Rick and Morty compare tool](#rick-and-morty-compare-tool)
-- [Configure backend (Django)](#configure-backend--django-)
-- [Configure front (Vue)](#configure-front--vue-)
-      - [Project setup (install needed packages)](#project-setup--install-needed-packages-)
+- [Configure backend (Django)](#configure-backend--django)
+- [Configure front (Vue)](#configure-front--vue)
+      - [Project setup (install needed packages)](#project-setup--install-needed-packages)
       - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
       - [Compiles and minifies for production](#compiles-and-minifies-for-production)
       - [Lints and fixes files](#lints-and-fixes-files)
