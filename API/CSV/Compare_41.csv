@@ -1,0 +1,3 @@
+id,name,status,species,type,gender,origin,location,image,episode,url,created,Result
+60,Calypso,Dead,Human,Superhuman,Female,"{'name': 'unknown', 'url': ''}","{'name': 'unknown', 'url': ''}",https://rickandmortyapi.com/api/character/avatar/60.jpeg,['https://rickandmortyapi.com/api/episode/25'],https://rickandmortyapi.com/api/character/60,2017-11-05T11:52:45.852000Z,False
+89,Dale,Dead,Mythological Creature,Giant,Male,"{'name': ""Giant's Town"", 'url': 'https://rickandmortyapi.com/api/location/14'}","{'name': ""Giant's Town"", 'url': 'https://rickandmortyapi.com/api/location/14'}",https://rickandmortyapi.com/api/character/avatar/89.jpeg,['https://rickandmortyapi.com/api/episode/5'],https://rickandmortyapi.com/api/character/89,2017-12-01T10:32:08.340000Z,
