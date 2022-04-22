@@ -15,9 +15,12 @@
 
 **Table of Contents**
 
+
 [TOCM]
 
+
 [TOC]
+
 
 Configure backend (Django)
 ====
@@ -25,6 +28,8 @@ Backend files you can find in /APi/api
 
 Make sure you have **python3.9+** installed
 otherwise you will need to install Json1 [click](https://code.djangoproject.com/wiki/JSON1Extension) for more information
+
+
 Python installation you can find [here](https://www.python.org/downloads/)
 
 
@@ -107,7 +112,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 > Characters card information.
 
+
 ###Some usefull information
 backend should be on port 8000 and front on 8080
 if port already in user it can run on different ports when you run it the program show you on which port its run take a look at that to make sure everything right if backed run on diffrent port need to change it in EventService.js file to make front access to backend
+
+
 ###End
