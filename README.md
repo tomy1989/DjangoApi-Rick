@@ -5,12 +5,13 @@
 - Get compare result to csv file
 - Python django
 - Vue.js
+- Swagger https://app.swaggerhub.com/apis/tomy1989/RicknMorty/1.0.0
 
 # Rick and Morty compare tool
 
 ![](https://www.pngall.com/wp-content/uploads/4/Rick-And-Morty-PNG-Clipart-180x180.png)
 
-![](https://img.shields.io/badge/-tomy%20poliakov-orange) ![](https://img.shields.io/github/stars/banges?style=social)  ![](https://img.shields.io/npm/v/npm) ![](https://img.shields.io/pypi/pyversions/django)
+![](https://img.shields.io/badge/-tomy%20poliakov-orange) ![](https://img.shields.io/npm/v/npm) ![](https://img.shields.io/pypi/pyversions/django)
 
 
 **Table of Contents**
@@ -31,7 +32,7 @@
 
 Configure backend (Django)
 ====
-Backend files you can find in /APi/api
+Backend files you can find in /APi
 
 Make sure you have **python3.9+** installed
 otherwise you will need to install Json1 [click](https://code.djangoproject.com/wiki/JSON1Extension) for more information

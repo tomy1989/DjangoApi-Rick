@@ -3,7 +3,7 @@ from django.db import models
 
 # Create your models here.
 #JsonField only python 3.9+ or install json1
-#model for out rick and morty characters
+#model for rick and morty characters
 class Character(models.Model):
     
     CHARACTER_STATUS_CHOICES = (
