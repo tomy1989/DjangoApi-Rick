@@ -56,7 +56,7 @@ req.txt = requirements.txt`$ pip install -r /path/to/requirements.txt`
 
  if you not have pip installed you can follow instuction [here](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) for installing
 
-####Run django server
+#### Run django server
 ```python
 python manage.py runserver
 ```
@@ -124,8 +124,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Some usefull information
 
 
+for containerize the project with Docker i have this 2 documentation:
+for django - https://docs.docker.com/samples/django/ and for vue - https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app.html but i was not sure if need to make one image or two, i read somewhere that the right way is 2 images, i was not sure how to make i would like to get know from you how i should make it work.
+
 backend should be on port 8000 and front on 8080
-if port already in user it can run on different ports when you run it the program show you on which port its run take a look at that to make sure everything right if backed run on diffrent port need to change it in EventService.js file to make front access to backend
+if port already in use it can run on different ports when you run it the program show you on which port its run take a look at that to make sure everything right if backend run on diffrent port need to change it in EventService.js file to make front access to backend
 
 
 ### End
